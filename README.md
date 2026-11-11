@@ -1,6 +1,6 @@
 Muhammad Usman — SRE Course
 
-\## Overview
+## Overview
 
 
 
@@ -8,53 +8,53 @@ Students need a simple way to track coursework tasks and see what remains. This 
 
 
 
-\## Scope
+## Scope
 
 
 
-\- In scope: Add a coursework task with a title.
+- In scope:sre is a course work title
 
-\- In scope: List saved tasks.
+- In scope: List saved tasks. yes saved
 
-\- In scope: Mark a task complete.
+- In scope: al task are completed
 
-\- Out of scope: Fee payments.
+- Out of scope: Fee payments. are 2-00000000000
 
-\- Out of scope: Automatic grading.
-
-
-
-\## Stakeholders
+- Out of scope: Automatic grading.
 
 
 
-\- Student: Records tasks and checks progress.
-
-\- Instructor: Reviews the documented requirements and expected system behavior.
-
-\- Project maintainer: Manages requirements, documentation, and future updates.
+## Stakeholders
 
 
 
-\## Functional requirements
+- Student: Records tasks and checks progress.
+
+- Instructor: Reviews the documented requirements and expected system behavior.
+
+- Project maintainer: Manages requirements, documentation, and future updates.
 
 
 
-\- FR-01: The system shall let a student create a task with a title.
-
-\- FR-02: The system shall display the student's saved tasks.
-
-\- FR-03: The system shall let a student mark a task complete.
+## Functional requirements
 
 
 
-\## Nonfunctional requirements
+- FR-01: The system shall let a student create a task with a title.
+
+- FR-02: The system shall display the student's saved tasks.
+
+- FR-03: The system shall let a student mark a task complete.
 
 
 
-\- NFR-01: With 100 saved tasks, the task list shall appear within 2 seconds in at least 95 of 100 trials on an agreed test device.
+## Nonfunctional requirements
 
-\- NFR-02: Every task action shall work using only a keyboard, checked against each documented task workflow.
+
+
+- NFR-01: With 100 saved tasks, the task list shall appear within 2 seconds in at least 95 of 100 trials on an agreed test device.
+
+- NFR-02: Every task action shall work using only a keyboard, checked against each documented task workflow.
 
 
 
@@ -62,27 +62,27 @@ Students need a simple way to track coursework tasks and see what remains. This 
 
 
 
-\- FR-01: Given the title "Read Chapter 1", saving a new task makes that title appear in the task list.
+- FR-01: Given the title "Read Chapter 1", saving a new task makes that title appear in the task list.
 
-\- FR-02: Given two saved tasks, opening the list shows both titles.
+- FR-02: Given two saved tasks, opening the list shows both titles.
 
-\- FR-03: Marking an incomplete task complete changes its displayed status to Complete.
-
-
-
-\## Assumptions and open questions
+- FR-03: Marking an incomplete task complete changes its displayed status to Complete.
 
 
 
-\- Assumption A-01: Students will have access to a device and browser for using the task tracker.
-
-\- Question Q-01: Should students be able to assign due dates to tasks?
-
-\- Question Q-02: Which device will be used to test NFR-01?
+## Assumptions and open questions
 
 
 
-\## Project status and viewing
+- Assumption A-01: Students will have access to a device and browser for using the task tracker.
+
+- Question Q-01: Should students be able to assign due dates to tasks?
+
+- Question Q-02: Which device will be used to test NFR-01?
+
+
+
+## Project status and viewing
 
 
 
@@ -94,15 +94,15 @@ Clone the repository and open README.md in Notepad, or read it on GitHub.
 
 
 
-\## Author
+## Author
 
 
 
-Your Name — Course Identifier
 
 
 
-\## Contributing
+
+## Contributing
 
 
 
